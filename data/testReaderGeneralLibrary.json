@@ -1,0 +1,40 @@
+{
+    "wishlistBooks": [
+        {
+            "title": "testBook A",
+            "genre": "Fiction",
+            "author": "testAuthor A",
+            "isRead": false,
+            "isOnWishlist": true,
+            "rating": null
+        }
+    ],
+    "readBooks": [
+        {
+            "title": "testBook B",
+            "genre": "Non-Fiction",
+            "author": "testAuthor B",
+            "isRead": true,
+            "isOnWishlist": false,
+            "rating": 4
+        }
+    ],
+    "bookList": [
+        {
+            "title": "testBook A",
+            "genre": "Fiction",
+            "author": "testAuthor A",
+            "isRead": false,
+            "isOnWishlist": true,
+            "rating": null
+        },
+        {
+            "title": "testBook B",
+            "genre": "Non-Fiction",
+            "author": "testAuthor B",
+            "isRead": true,
+            "isOnWishlist": false,
+            "rating": 4
+        }
+    ]
+}

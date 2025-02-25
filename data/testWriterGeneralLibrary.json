@@ -1,0 +1,21 @@
+{
+    "wishlistBooks": [],
+    "readBooks": [],
+    "bookList": [
+        {
+            "author": "testAuthor C",
+            "isOnWishlist": true,
+            "genre": "Science Fiction",
+            "isRead": false,
+            "title": "testBook C"
+        },
+        {
+            "author": "testAuthor D",
+            "isOnWishlist": false,
+            "genre": "Fantasy",
+            "isRead": true,
+            "rating": 5,
+            "title": "testBook D"
+        }
+    ]
+}

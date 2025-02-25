@@ -1,0 +1,27 @@
+{
+    "wishlistBooks": [],
+    "readBooks": [],
+    "bookList": [
+        {
+            "author": "Khaled Hosseini",
+            "isOnWishlist": false,
+            "genre": "Fiction",
+            "isRead": false,
+            "title": "A Thousand Splendid Suns"
+        },
+        {
+            "author": "Dystopian",
+            "isOnWishlist": false,
+            "genre": "George Orwell",
+            "isRead": false,
+            "title": "1984"
+        },
+        {
+            "author": "Suzanne Collins",
+            "isOnWishlist": false,
+            "genre": "Dystopian",
+            "isRead": false,
+            "title": "The Hunger Games"
+        }
+    ]
+}

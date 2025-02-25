@@ -1,0 +1,21 @@
+{
+    "wishlistBooks": [],
+    "readBooks": [],
+    "bookList": [
+        {
+            "author": "J.K. Rowling",
+            "isOnWishlist": false,
+            "genre": "Fantasy",
+            "isRead": true,
+            "rating": 5,
+            "title": "Harry Potter"
+        },
+        {
+            "author": "Suzanne Collins",
+            "isOnWishlist": true,
+            "genre": "Dystopian",
+            "isRead": false,
+            "title": "The Hunger Games"
+        }
+    ]
+}
